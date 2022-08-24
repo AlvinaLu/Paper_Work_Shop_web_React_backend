@@ -1,0 +1,7 @@
+.idea
+.gradle
+/build
+/src/main/resources/application-dev.properties
+/src/main/resources/static
+/package-lock.json
+/HELP.md
